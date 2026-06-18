@@ -2,6 +2,8 @@
 
 A Claude Code skill for seamless session-to-session handoff in large projects.
 
+> 🌐 English | [简体中文](README.zh-CN.md)
+
 ## The Problem
 
 When working on large projects across multiple AI sessions, each new session starts blind — it reads CLAUDE.md but doesn't know what was just completed, what files were changed, or what to do next. The AI wastes ~5 minutes and 40-50% of the context window(200M) exploring the entire project.
