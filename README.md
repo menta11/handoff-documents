@@ -42,3 +42,6 @@ handoff-documents/
 ├── SKILL.md      # Main skill file
 └── template.md   # Handoff document template (8 sections)
 ```
+
+## License
+Released under the [MIT License](LICENSE) — © 2026 mengtao Liu.
