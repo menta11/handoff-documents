@@ -42,3 +42,6 @@ handoff-documents/
 ├── SKILL.md      # 主 skill 文件
 └── template.md   # 接手文档模板（8 节）
 ```
+
+## 许可
+在 [MIT 许可证](LICENSE) 下发布 — © 2026 刘孟涛
